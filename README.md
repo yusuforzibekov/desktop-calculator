@@ -1,1 +1,3 @@
-# desktop-calculator
+### desktop-calculator
+How it works?
+I think most of you use digital __calculators__ in your life. Yes digital one is more convenient and very smart. Even you can solve trigonometric statements using this __calculator__. In addition you can convert anything like dollar to another or size and etc. I would like to share my __calculator__ which is written `Python` and converted to `.exe` file. It will help you for mathematics issues such as substraction, addition, dividing and multiplication works. So I will try to upgrade it by releasing new versions. Well, let's name first calculator version `1.0.0`. Wish me good luck. So guys take care.
